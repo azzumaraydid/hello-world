@@ -1,4 +1,4 @@
 # hello-world
-My first time Github
+My second time Github
 Hi, My name is Muhd Azzumar Aydid
-I'm fine thank you, next
+I'm need vacation thank you, next
